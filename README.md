@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://itsdom.org](https://itsdom.org) or on GitHub.
+- 👨‍💻 All of my projects are available on GitHub.
 
 - 📫 How to reach me **hello@itsdom.org**
 
